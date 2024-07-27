@@ -18,7 +18,7 @@ First, make sure your computer has all the things listed above. I highly recomen
 
 ### If you're using the real launcher
 - Run the game with all the prerequisites, to confirm it launches and creates a `mods/` folder in your `.minecraft` folder.
-- Download all the needed mods from [this google drive](https://drive.google.com/drive/folders/1EwK6wKfp4-o6lEFc7oYJxp0cpoYVpf19)
+- Download all the needed mods from the private link
 - Put all the `.jar` files into the `mods/` folder. If it wasn't created for some reason, its ok to create it manually.
 - *Be aware you'll likely need to increase the amount of RAM minecraft can use, and switch `Java` to use your high power graphics card.*
 - Confirm all the mods have loaded after launching the game and clicking the mods button.
